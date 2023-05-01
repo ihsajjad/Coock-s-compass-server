@@ -1,0 +1,469 @@
+{
+    "chefs": [
+        {
+            "id": 1,
+            "chef_picture": "https://images.unsplash.com/photo-1583394293214-28ded15ee548?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80",
+            "chef_name": "John Doe",
+            "years_of_experience": 10,
+            "num_recipes": 50,
+            "likes": 5000,
+            "description": "John Doe is an experienced chef who has worked in several Michelin-starred restaurants. He specializes in French cuisine and is known for his inventive use of herbs and spices.",
+            "recipes": [
+                {
+                    "id": 1,
+                    "name": "Creamy Garlic Mushroom Chicken",
+                    "ingredients": [
+                        "4 boneless, skinless chicken breasts",
+                        "1 cup sliced mushrooms",
+                        "3 cloves garlic, minced",
+                        "1/2 cup heavy cream",
+                        "1/2 cup chicken broth",
+                        "1 tablespoon olive oil",
+                        "1 tablespoon butter",
+                        "Salt and pepper, to taste"
+                    ],
+                    "method": "1. Preheat oven to 375°F.\n2. Season chicken breasts with salt and pepper on both sides.\n3. Heat olive oil in a large oven-safe skillet over medium-high heat.\n4. Add chicken breasts and cook for 5-6 minutes per side, or until golden brown.\n5. Remove chicken from skillet and set aside.\n6. Add mushrooms to the skillet and sauté for 3-4 minutes, or until they start to release their juices.\n7. Add garlic and sauté for another 1-2 minutes, or until fragrant.\n8. Pour in chicken broth and scrape up any browned bits from the bottom of the skillet.\n9. Simmer until the broth has reduced by half, then stir in heavy cream.\n10. Return chicken to the skillet and spoon the mushroom sauce over the top.\n11. Bake in the preheated oven for 25-30 minutes, or until chicken is cooked through.\n12. Serve hot.",
+                    "rating": 4.5,
+                    "image": "https://example.com/creamy_garlic_mushroom_chicken.jpg"
+                },
+                {
+                    "id": 2,
+                    "name": "Spicy Shrimp Pasta",
+                    "ingredients": [
+                        "8 oz. linguine",
+                        "1 lb. shrimp, peeled and deveined",
+                        "3 cloves garlic, minced",
+                        "1/2 teaspoon red pepper flakes",
+                        "1/2 cup heavy cream",
+                        "1/2 cup grated Parmesan cheese",
+                        "2 tablespoons olive oil",
+                        "Salt and pepper, to taste"
+                    ],
+                    "method": "1. Cook linguine according to package instructions.\n2. Heat olive oil in a large skillet over medium-high heat.\n3. Add shrimp and cook for 2-3 minutes per side, or until pink and cooked through.\n4. Remove shrimp from skillet and set aside.\n5. Add garlic and red pepper flakes to the skillet and sauté for 1-2 minutes, or until fragrant.\n6. Stir in heavy cream and Parmesan cheese until the cheese has melted and the sauce is creamy.\n7. Return shrimp to the skillet and toss to coat in the sauce.\n8. Serve hot over cooked linguine.",
+                    "rating": 4.2,
+                    "image": "https://example.com/spicy_shrimp_pasta.jpg"
+                },
+                {
+                    "id": 3,
+                    "name": "Mushroom Risotto",
+                    "ingredients": [
+                        "6 cups chicken or vegetable broth",
+                        "1/4 cup olive oil",
+                        "1 onion, finely chopped",
+                        "2 cups Arborio rice",
+                        "1 cup white wine",
+                        "2 cups sliced mushrooms",
+                        "1 cup grated Parmesan cheese",
+                        "Salt and pepper, to taste"
+                    ],
+                    "method": "1. Heat the broth in a saucepan and keep it warm over low heat.\n2. Heat the olive oil in a large skillet over medium heat",
+                    "rating": 4.8,
+                    "image": "https://example.com/mushroom_risotto.jpg"
+                },
+                {
+                    "id": 4,
+                    "name": "Honey Mustard Salmon",
+                    "ingredients": [
+                        "4 salmon fillets",
+                        "1/4 cup Dijon mustard",
+                        "1/4 cup honey",
+                        "2 tablespoons olive oil",
+                        "1 tablespoon chopped fresh parsley",
+                        "Salt and pepper, to taste"
+                    ],
+                    "method": "Mix mustard, honey, olive oil, salt, and pepper. Spread on salmon fillets. Bake in oven for 12-15 minutes. Sprinkle with parsley.",
+                    "rating": 4.6,
+                    "image": "https://example.com/honey_mustard_salmon.jpg"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "chef_picture": "https://plus.unsplash.com/premium_photo-1664392388804-d728a3637d7f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=441&q=80",
+            "chef_name": "Jane Smith",
+            "years_of_experience": 8,
+            "num_recipes": 35,
+            "likes": 4500,
+            "description": "Jane Smith is a pastry chef who has worked in some of the best bakeries in the world. She is particularly skilled in making croissants and other French pastries.",
+            "recipes": [
+                {
+                    "id": 1,
+                    "name": "Balsamic Glazed Pork Chops",
+                    "ingredients": [
+                        "4 bone-in pork chops",
+                        "1/2 cup balsamic vinegar",
+                        "1/4 cup honey",
+                        "2 cloves garlic, minced",
+                        "1 tablespoon olive oil",
+                        "Salt and pepper, to taste"
+                    ],
+                    "method": "Mix balsamic vinegar, honey, garlic, olive oil, salt, and pepper. Brush over pork chops. Grill or bake for 10-12 minutes.",
+                    "rating": 4.4,
+                    "image": "https://example.com/balsamic_glazed_pork_chops.jpg"
+                },
+                {
+                    "id": 2,
+                    "name": "Thai Red Curry with Chicken",
+                    "ingredients": [
+                        "1 lb. boneless, skinless chicken breast, cubed",
+                        "1 can coconut milk",
+                        "2 tablespoons Thai red curry paste",
+                        "1 red bell pepper, sliced",
+                        "1 onion, sliced",
+                        "1 tablespoon fish sauce",
+                        "1 tablespoon brown sugar",
+                        "1 tablespoon vegetable oil"
+                    ],
+                    "method": "Cook chicken in oil. Add curry paste and cook for 1-2 minutes. Add vegetables, coconut milk, fish sauce, and sugar. Simmer for 15-20 minutes.",
+                    "rating": 4.7,
+                    "image": "https://example.com/thai_red_curry.jpg"
+                },
+                {
+                    "id": 3,
+                    "name": "Caprese Salad",
+                    "ingredients": [
+                        "2 cups cherry tomatoes, halved",
+                        "8 oz. fresh mozzarella cheese, cubed",
+                        "1/4 cup fresh basil leaves, torn",
+                        "2 tablespoons balsamic vinegar",
+                        "2 tablespoons olive oil",
+                        "Salt and pepper, to taste"
+                    ],
+                    "method": "Mix tomatoes, cheese, and basil. Whisk together vinegar, oil, salt, and pepper. Drizzle over salad.",
+                    "rating": 4.3,
+                    "image": "https://example.com/caprese_salad.jpg"
+                },
+                {
+                    "id": 4,
+                    "name": "Beef Stroganoff",
+                    "ingredients": [
+                        "1 lb. beef sirloin, thinly sliced",
+                        "8 oz. sliced mushrooms",
+                        "1 onion, sliced",
+                        "2 cloves garlic, minced",
+                        "1 cup beef broth",
+                        "1 cup sour cream",
+                        "2 tablespoons flour",
+                        "2 tablespoons butter",
+                        "Salt and pepper, to taste"
+                    ],
+                    "method": "Brown beef, mushrooms, onion, and garlic. Add broth and simmer for 10-15 minutes. Whisk together sour cream, flour, and butter. Stir into beef mixture and cook until thickened.",
+                    "rating": 4.5,
+                    "image": "https://example.com/beef_stroganoff.jpg"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "chef_picture": "https://images.unsplash.com/photo-1669707569583-8d4c8051130a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=464&q=80",
+            "chef_name": "Michael Lee",
+            "years_of_experience": 12,
+            "num_recipes": 75,
+            "likes": 6000,
+            "description": "Michael Lee is a Korean-American chef who has blended his Korean heritage with modern cooking techniques to create unique fusion dishes.",
+            "recipes": [
+                {
+                    "id": 1,
+                    "name": "Baked Ziti",
+                    "ingredients": [
+                        "1 lb. ziti pasta",
+                        "1 lb. ground beef",
+                        "1 jar marinara sauce",
+                        "1 cup shredded mozzarella cheese",
+                        "1/2 cup grated Parmesan cheese",
+                        "1/4 cup chopped fresh parsley",
+                        "Salt and pepper, to taste"
+                    ],
+                    "method": "Cook pasta. Brown beef and drain. Mix pasta, beef, and marinara sauce. Top with cheeses and bake for 20-25 minutes.",
+                    "rating": 4.6,
+                    "image": "https://example.com/baked_ziti.jpg"
+                },
+                {
+                    "id": 2,
+                    "name": "Lemon Garlic Roasted Chicken",
+                    "ingredients": [
+                        "1 whole chicken",
+                        "4 cloves garlic, minced",
+                        "2 lemons, sliced",
+                        "2 tablespoons olive oil",
+                        "1 teaspoon dried oregano",
+                        "1 teaspoon dried thyme",
+                        "Salt and pepper, to taste"
+                    ],
+                    "method": "Mix garlic, oil, oregano, thyme, salt, and pepper. Rub over chicken. Stuff lemon slices inside chicken. Roast at 375 degrees for 1-1 1/2 hours.",
+                    "rating": 4.8,
+                    "image": "https://example.com/lemon_garlic_chicken.jpg"
+                },
+                {
+                    "id": 3,
+                    "name": "Vegetable Fried Rice",
+                    "ingredients": [
+                        "2 cups cooked rice",
+                        "1 cup frozen peas and carrots",
+                        "1/2 cup chopped onion",
+                        "1/2 cup chopped bell pepper",
+                        "2 cloves garlic, minced",
+                        "2 tablespoons soy sauce",
+                        "1 tablespoon sesame oil",
+                        "1 tablespoon vegetable oil",
+                        "Salt and pepper, to taste"
+                    ],
+                    "method": "Cook vegetables and garlic in oil. Add rice, soy sauce, sesame oil, salt, and pepper. Cook until heated through.",
+                    "rating": 4.2,
+                    "image": "https://example.com/vegetable_fried_rice.jpg"
+                },
+                {
+                    "id": 4,
+                    "name": "Pesto Pasta with Shrimp",
+                    "ingredients": [
+                        "1 lb. pasta",
+                        "1 lb. shrimp, peeled and deveined",
+                        "1 cup basil pesto",
+                        "1/2 cup grated Parmesan cheese",
+                        "2 tablespoons olive oil",
+                        "Salt and pepper, to taste"
+                    ],
+                    "method": "Cook pasta. Cook shrimp in oil. Mix pasta, shrimp, pesto, and cheese. Season with salt and pepper.",
+                    "rating": 4.7,
+                    "image": "https://example.com/pesto_pasta_shrimp.jpg"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "chef_picture": "https://plus.unsplash.com/premium_photo-1661778091956-15dbe6e47442?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+            "chef_name": "Maria Rodriguez",
+            "years_of_experience": 5,
+            "num_recipes": 20,
+            "likes": 2000,
+            "description": "Maria Rodriguez is a Mexican chef who specializes in traditional Mexican cuisine. She has a passion for using fresh, locally-sourced ingredients.",
+            "recipes": [
+                {
+                    "id": 1,
+                    "name": "Chicken Parmesan",
+                    "ingredients": [
+                        "4 boneless, skinless chicken breasts",
+                        "1 cup Italian-seasoned breadcrumbs",
+                        "1/2 cup grated Parmesan cheese",
+                        "1 egg, beaten",
+                        "1 cup marinara sauce",
+                        "1 cup shredded mozzarella cheese",
+                        "Salt and pepper, to taste"
+                    ],
+                    "method": "Mix breadcrumbs and Parmesan cheese. Dip chicken in egg, then in breadcrumb mixture. Bake for 20 minutes. Top with marinara sauce and mozzarella. Bake for 5-10 more minutes.",
+                    "rating": 4.6,
+                    "image": "https://example.com/chicken_parmesan.jpg"
+                },
+                {
+                    "id": 2,
+                    "name": "Vegetable Stir-Fry",
+                    "ingredients": [
+                        "2 cups chopped mixed vegetables (such as broccoli, carrots, peppers, onions, and snow peas)",
+                        "1/4 cup soy sauce",
+                        "2 tablespoons cornstarch",
+                        "2 tablespoons vegetable oil",
+                        "2 cloves garlic, minced",
+                        "1 tablespoon grated fresh ginger",
+                        "Salt and pepper, to taste"
+                    ],
+                    "method": "Cook vegetables in oil. Add garlic and ginger and cook for 1-2 minutes. Mix soy sauce, cornstarch, salt, and pepper. Add to vegetables and cook until thickened.",
+                    "rating": 4.2,
+                    "image": "https://example.com/vegetable_stir_fry.jpg"
+                },
+                {
+                    "id": 3,
+                    "name": "Shrimp Scampi",
+                    "ingredients": [
+                        "1 lb. shrimp, peeled and deveined",
+                        "1/4 cup butter",
+                        "4 cloves garlic, minced",
+                        "1/4 teaspoon red pepper flakes",
+                        "1/4 cup dry white wine",
+                        "1/4 cup lemon juice",
+                        "1/4 cup chopped fresh parsley",
+                        "Salt and pepper, to taste"
+                    ],
+                    "method": "Cook shrimp in butter. Add garlic and red pepper flakes and cook for 1-2 minutes. Add wine, lemon juice, salt, and pepper. Simmer for 5-7 minutes. Stir in parsley.",
+                    "rating": 4.4,
+                    "image": "https://example.com/shrimp_scampi.jpg"
+                },
+                {
+                    "id": 4,
+                    "name": "Homemade Pizza",
+                    "ingredients": [
+                        "1 lb. pizza dough",
+                        "1/2 cup marinara sauce",
+                        "1 cup shredded mozzarella cheese",
+                        "Toppings of your choice (such as pepperoni, sausage, vegetables, etc.)",
+                        "Salt and pepper, to taste"
+                    ],
+                    "method": "Roll out dough. Top with sauce, cheese, and toppings. Bake at 450 degrees for 10-15 minutes.",
+                    "rating": 4.8,
+                    "image": "https://example.com/homemade_pizza.jpg"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "chef_picture": "https://images.unsplash.com/photo-1581299894007-aaa50297cf16?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+            "chef_name": "David Kim",
+            "years_of_experience": 15,
+            "num_recipes": 100,
+            "likes": 8000,
+            "description": "David Kim is a Korean-American chef who has worked in some of the best restaurants in New York City. He is known for his innovative take on Korean cuisine.",
+            "recipes": [
+                {
+                    "id": 1,
+                    "name": "Chicken Fajitas",
+                    "ingredients": [
+                        "1 lb. boneless, skinless chicken breasts, sliced",
+                        "1 red bell pepper, sliced",
+                        "1 green bell pepper, sliced",
+                        "1 onion, sliced",
+                        "2 cloves garlic, minced",
+                        "2 tablespoons vegetable oil",
+                        "1 teaspoon chili powder",
+                        "1/2 teaspoon ground cumin",
+                        "1/2 teaspoon smoked paprika",
+                        "Salt and pepper, to taste",
+                        "8-10 flour tortillas"
+                    ],
+                    "method": "Cook chicken in oil. Add vegetables and cook for 3-4 minutes. Add garlic and spices and cook for 1-2 minutes. Serve in tortillas.",
+                    "rating": 4.6,
+                    "image": "https://example.com/chicken_fajitas.jpg"
+                },
+                {
+                    "id": 2,
+                    "name": "Classic Lasagna",
+                    "ingredients": [
+                        "1 lb. lasagna noodles",
+                        "1 lb. ground beef",
+                        "1 jar marinara sauce",
+                        "1 cup ricotta cheese",
+                        "1 cup shredded mozzarella cheese",
+                        "1/2 cup grated Parmesan cheese",
+                        "1/4 cup chopped fresh parsley",
+                        "Salt and pepper, to taste"
+                    ],
+                    "method": "Cook noodles. Brown beef and drain. Mix ricotta, parsley, salt, and pepper. Layer noodles, sauce, beef, ricotta, and cheese. Bake for 30-40 minutes.",
+                    "rating": 4.5,
+                    "image": "https://example.com/classic_lasagna.jpg"
+                },
+                {
+                    "id": 3,
+                    "name": "Spinach and Feta Stuffed Chicken Breasts",
+                    "ingredients": [
+                        "4 boneless, skinless chicken breasts",
+                        "4 oz. crumbled feta cheese",
+                        "1/4 cup chopped fresh spinach",
+                        "2 cloves garlic, minced",
+                        "2 tablespoons olive oil",
+                        "Salt and pepper, to taste"
+                    ],
+                    "method": "Mix feta, spinach, garlic, salt, and pepper. Cut a pocket in each chicken breast and stuff with mixture. Heat oil in pan and cook chicken for 6-8 minutes per side.",
+                    "rating": 4.7,
+                    "image": "https://example.com/spinach_feta_chicken.jpg"
+                },
+                {
+                    "id": 4,
+                    "name": "Roasted Vegetable Quinoa Salad",
+                    "ingredients": [
+                        "1 cup quinoa, rinsed and drained",
+                        "2 cups water",
+                        "2 tablespoons olive oil",
+                        "1 red bell pepper, chopped",
+                        "1 yellow bell pepper, chopped",
+                        "1 zucchini, chopped",
+                        "1/2 red onion, chopped",
+                        "2 cloves garlic, minced",
+                        "2 tablespoons balsamic vinegar",
+                        "1/4 cup chopped fresh basil",
+                        "Salt and pepper, to taste"
+                    ],
+                    "method": "Roast vegetables in oven. Cook quinoa in water. Mix together vegetables, quinoa, garlic, vinegar, basil, salt, and pepper.",
+                    "rating": 4.4,
+                    "image": "https://example.com/roasted_veggie_quinoa_salad.jpg"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "chef_picture": "https://example.com/chef6_profile.jpg",
+            "chef_name": "Samantha Brown",
+            "years_of_experience": 7,
+            "num_recipes": 30,
+            "likes": 3000,
+            "description": "Samantha Brown is a vegan chef who specializes in plant-based cuisine. She has a passion for creating healthy, flavorful dishes that are both satisfying and nutritious.",
+            "recipes": [
+                {
+                    "id": 1,
+                    "name": "Pesto Pasta",
+                    "ingredients": [
+                        "1 lb. linguine pasta",
+                        "1 cup basil leaves",
+                        "1/2 cup grated Parmesan cheese",
+                        "1/2 cup olive oil",
+                        "1/4 cup pine nuts",
+                        "2 cloves garlic, minced",
+                        "Salt and pepper, to taste"
+                    ],
+                    "method": "Cook pasta. Blend basil, cheese, oil, pine nuts, garlic, salt, and pepper until smooth. Toss with pasta.",
+                    "rating": 4.6,
+                    "image": "https://example.com/pesto_pasta.jpg"
+                },
+                {
+                    "id": 2,
+                    "name": "Spinach and Feta Stuffed Chicken Breast",
+                    "ingredients": [
+                        "4 boneless, skinless chicken breasts",
+                        "4 cups baby spinach",
+                        "4 oz. crumbled feta cheese",
+                        "2 cloves garlic, minced",
+                        "2 tablespoons olive oil",
+                        "Salt and pepper, to taste"
+                    ],
+                    "method": "Preheat oven. Combine spinach, feta, garlic, salt, and pepper. Cut a pocket in each chicken breast and stuff with spinach mixture. Sear chicken in oil. Bake for 20-25 minutes.",
+                    "rating": 4.8,
+                    "image": "https://example.com/spinach_feta_chicken.jpg"
+                },
+                {
+                    "id": 3,
+                    "name": "Mushroom Risotto",
+                    "ingredients": [
+                        "1 cup Arborio rice",
+                        "4 cups chicken broth",
+                        "1 lb. sliced mushrooms",
+                        "1 onion, chopped",
+                        "2 cloves garlic, minced",
+                        "1/2 cup grated Parmesan cheese",
+                        "2 tablespoons butter",
+                        "2 tablespoons olive oil",
+                        "Salt and pepper, to taste"
+                    ],
+                    "method": "Saute mushrooms, onion, and garlic in oil. Add rice and cook for 2 minutes. Add broth and simmer for 20-25 minutes. Stir in Parmesan and butter.",
+                    "rating": 4.7,
+                    "image": "https://example.com/mushroom_risotto.jpg"
+                },
+                {
+                    "id": 4,
+                    "name": "Taco Salad",
+                    "ingredients": [
+                        "1 lb. ground beef",
+                        "1 head lettuce, chopped",
+                        "1 can black beans, rinsed and drained",
+                        "1 can corn, drained",
+                        "1 cup chopped tomatoes",
+                        "1/2 cup shredded cheddar cheese",
+                        "1/4 cup chopped fresh cilantro",
+                        "1 tablespoon chili powder",
+                        "1 tablespoon cumin",
+                        "Salt and pepper, to taste"
+                    ],
+                    "method": "Brown beef and drain. Add chili powder, cumin, salt, and pepper. Mix with lettuce, beans, corn, tomatoes, cheese, and cilantro.",
+                    "rating": 4.5,
+                    "image": "https://example.com/taco_salad.jpg"
+                }
+            ]
+        }
+    ]
+}
