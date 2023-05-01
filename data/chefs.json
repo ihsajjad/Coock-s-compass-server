@@ -9,70 +9,72 @@
         "description": "John Doe is an experienced chef who has worked in several Michelin-starred restaurants. He specializes in French cuisine and is known for his inventive use of herbs and spices.",
         "recipes": [
             {
-                "id": 1,
-                "name": "Creamy Garlic Mushroom Chicken",
+                "id": "KOR001",
+                "name": "Kimchi Fried Rice",
                 "ingredients": [
-                    "4 boneless, skinless chicken breasts",
-                    "1 cup sliced mushrooms",
-                    "3 cloves garlic, minced",
-                    "1/2 cup heavy cream",
-                    "1/2 cup chicken broth",
-                    "1 tablespoon olive oil",
-                    "1 tablespoon butter",
-                    "Salt and pepper, to taste"
+                    "2 cups cooked white rice",
+                    "1 cup kimchi, chopped",
+                    "1/4 cup kimchi juice",
+                    "1/4 cup chopped scallions",
+                    "1 tablespoon vegetable oil"
                 ],
-                "method": "1. Preheat oven to 375°F.\n2. Season chicken breasts with salt and pepper on both sides.\n3. Heat olive oil in a large oven-safe skillet over medium-high heat.\n4. Add chicken breasts and cook for 5-6 minutes per side, or until golden brown.\n5. Remove chicken from skillet and set aside.\n6. Add mushrooms to the skillet and sauté for 3-4 minutes, or until they start to release their juices.\n7. Add garlic and sauté for another 1-2 minutes, or until fragrant.\n8. Pour in chicken broth and scrape up any browned bits from the bottom of the skillet.\n9. Simmer until the broth has reduced by half, then stir in heavy cream.\n10. Return chicken to the skillet and spoon the mushroom sauce over the top.\n11. Bake in the preheated oven for 25-30 minutes, or until chicken is cooked through.\n12. Serve hot.",
+                "cookingMethod": "Stir-fry chopped kimchi in oil. Add rice and kimchi juice. Add scallions. Stir-fry until heated through. Serve hot.",
                 "rating": 4.5,
-                "image": "https://example.com/creamy_garlic_mushroom_chicken.jpg"
+                "image": "https://example.com/kimchi_fried_rice.jpg"
             },
             {
-                "id": 2,
-                "name": "Spicy Shrimp Pasta",
+                "id": "KOR002",
+                "name": "Bibimbap",
                 "ingredients": [
-                    "8 oz. linguine",
-                    "1 lb. shrimp, peeled and deveined",
-                    "3 cloves garlic, minced",
-                    "1/2 teaspoon red pepper flakes",
-                    "1/2 cup heavy cream",
-                    "1/2 cup grated Parmesan cheese",
-                    "2 tablespoons olive oil",
-                    "Salt and pepper, to taste"
+                    "2 cups cooked white rice",
+                    "1 cup sliced beef",
+                    "1 cup blanched spinach",
+                    "1/2 cup julienned carrot",
+                    "1/2 cup julienned zucchini",
+                    "1/2 cup blanched bean sprouts",
+                    "1/4 cup sliced shiitake mushrooms",
+                    "1 egg",
+                    "2 tablespoons gochujang"
                 ],
-                "method": "1. Cook linguine according to package instructions.\n2. Heat olive oil in a large skillet over medium-high heat.\n3. Add shrimp and cook for 2-3 minutes per side, or until pink and cooked through.\n4. Remove shrimp from skillet and set aside.\n5. Add garlic and red pepper flakes to the skillet and sauté for 1-2 minutes, or until fragrant.\n6. Stir in heavy cream and Parmesan cheese until the cheese has melted and the sauce is creamy.\n7. Return shrimp to the skillet and toss to coat in the sauce.\n8. Serve hot over cooked linguine.",
-                "rating": 4.2,
-                "image": "https://example.com/spicy_shrimp_pasta.jpg"
-            },
-            {
-                "id": 3,
-                "name": "Mushroom Risotto",
-                "ingredients": [
-                    "6 cups chicken or vegetable broth",
-                    "1/4 cup olive oil",
-                    "1 onion, finely chopped",
-                    "2 cups Arborio rice",
-                    "1 cup white wine",
-                    "2 cups sliced mushrooms",
-                    "1 cup grated Parmesan cheese",
-                    "Salt and pepper, to taste"
-                ],
-                "method": "1. Heat the broth in a saucepan and keep it warm over low heat.\n2. Heat the olive oil in a large skillet over medium heat",
+                "cookingMethod": "Place rice in bowl. Arrange vegetables and beef on top. Fry egg and add on top. Serve with gochujang. Mix before eating.",
                 "rating": 4.8,
-                "image": "https://example.com/mushroom_risotto.jpg"
+                "image": "https://example.com/bibimbap.jpg"
             },
             {
-                "id": 4,
-                "name": "Honey Mustard Salmon",
+                "id": "KOR003",
+                "name": "Japchae",
                 "ingredients": [
-                    "4 salmon fillets",
-                    "1/4 cup Dijon mustard",
-                    "1/4 cup honey",
-                    "2 tablespoons olive oil",
-                    "1 tablespoon chopped fresh parsley",
-                    "Salt and pepper, to taste"
+                    "4 oz sweet potato starch noodles",
+                    "4 oz sliced beef",
+                    "1/2 onion",
+                    "1/2 red bell pepper",
+                    "1/2 green bell pepper",
+                    "2 cups blanched spinach",
+                    "1 tbsp sesame oil",
+                    "1 tbsp soy sauce",
+                    "1 tbsp sugar",
+                    "1/2 tsp black pepper"
                 ],
-                "method": "Mix mustard, honey, olive oil, salt, and pepper. Spread on salmon fillets. Bake in oven for 12-15 minutes. Sprinkle with parsley.",
+                "cookingMethod": "Cook noodles. Stir-fry beef, onions, and peppers. Add noodles, spinach, soy sauce, sugar, and pepper. Stir-fry. Serve hot.",
+                "rating": 4.7,
+                "image": "https://example.com/japchae.jpg"
+            },
+            {
+                "id": "KOR004",
+                "name": "Bulgogi",
+                "ingredients": [
+                    "1 lb thinly sliced beef sirloin",
+                    "1/2 onion",
+                    "3 cloves garlic",
+                    "1/4 cup soy sauce",
+                    "2 tbsp sugar",
+                    "1 tbsp sesame oil",
+                    "1/2 tsp black pepper",
+                    "1/4 cup chopped scallions"
+                ],
+                "cookingMethod": "Marinate beef in soy sauce, sugar, garlic, and sesame oil. Stir-fry beef and onions. Add scallions. Serve hot.",
                 "rating": 4.6,
-                "image": "https://example.com/honey_mustard_salmon.jpg"
+                "image": "https://example.com/bulgogi.jpg"
             }
         ]
     },
@@ -86,69 +88,84 @@
         "description": "Jane Smith is a pastry chef who has worked in some of the best bakeries in the world. She is particularly skilled in making croissants and other French pastries.",
         "recipes": [
             {
-                "id": 1,
-                "name": "Balsamic Glazed Pork Chops",
+                "id": "KOR001",
+                "name": "Jjimdak",
                 "ingredients": [
-                    "4 bone-in pork chops",
-                    "1/2 cup balsamic vinegar",
-                    "1/4 cup honey",
-                    "2 cloves garlic, minced",
-                    "1 tablespoon olive oil",
-                    "Salt and pepper, to taste"
+                    "2 lbs chicken drumsticks",
+                    "1/2 lb potatoes, peeled and cubed",
+                    "1/2 onion, sliced",
+                    "4 cloves garlic, minced",
+                    "4 dried shiitake mushrooms, soaked and sliced",
+                    "1/4 cup soy sauce",
+                    "1/4 cup mirin",
+                    "2 tbsp gochugaru (Korean red pepper flakes)",
+                    "2 tbsp brown sugar",
+                    "1 tbsp sesame oil",
+                    "1/4 cup sliced scallions",
+                    "2 cups water"
                 ],
-                "method": "Mix balsamic vinegar, honey, garlic, olive oil, salt, and pepper. Brush over pork chops. Grill or bake for 10-12 minutes.",
-                "rating": 4.4,
-                "image": "https://example.com/balsamic_glazed_pork_chops.jpg"
+                "cookingMethod": "Boil chicken, potatoes, onion, garlic, mushrooms, soy sauce, mirin, gochugaru, brown sugar, sesame oil, and water. Simmer for 30 mins. Add scallions and cook for 10 mins. Serve hot with rice.",
+                "rating": 4.8,
+                "image": "https://example.com/jjimdak.jpg"
             },
             {
-                "id": 2,
-                "name": "Thai Red Curry with Chicken",
+                "id": "KOR002",
+                "name": "Bibimbap",
                 "ingredients": [
-                    "1 lb. boneless, skinless chicken breast, cubed",
-                    "1 can coconut milk",
-                    "2 tablespoons Thai red curry paste",
-                    "1 red bell pepper, sliced",
-                    "1 onion, sliced",
-                    "1 tablespoon fish sauce",
-                    "1 tablespoon brown sugar",
-                    "1 tablespoon vegetable oil"
+                    "1 cup cooked white rice",
+                    "1/2 lb beef, sliced",
+                    "1 carrot, julienned",
+                    "1/2 cucumber, julienned",
+                    "1/2 zucchini, julienned",
+                    "1/2 cup bean sprouts",
+                    "1/4 cup sliced mushrooms",
+                    "2 tbsp vegetable oil",
+                    "2 tbsp gochujang (Korean chili paste)",
+                    "2 tbsp soy sauce",
+                    "1 tbsp sesame oil",
+                    "2 cloves garlic, minced",
+                    "2 eggs",
+                    "Salt and pepper to taste"
                 ],
-                "method": "Cook chicken in oil. Add curry paste and cook for 1-2 minutes. Add vegetables, coconut milk, fish sauce, and sugar. Simmer for 15-20 minutes.",
+                "cookingMethod": "Sauté beef, vegetables, garlic, soy sauce, sesame oil. Fry eggs. Arrange rice in a bowl, top with beef and vegetables. Add egg and gochujang. Mix well before eating.",
+                "rating": 4.9,
+                "image": "https://example.com/bibimbap.jpg"
+            },
+            {
+                "id": "KOR003",
+                "name": "Haemul Pajeon",
+                "ingredients": [
+                    "1 cup all-purpose flour",
+                    "1 cup water",
+                    "1/2 lb mixed seafood (shrimp, squid, scallops), cleaned and chopped",
+                    "1/2 onion, sliced",
+                    "1/4 cup scallions, chopped",
+                    "2 tbsp vegetable oil",
+                    "Salt and pepper to taste"
+                ],
+                "cookingMethod": "Mix flour and water. Sauté seafood, onion, and scallions in oil. Add mixture to flour batter. Heat oil in a pan. Pour in batter. Cook until crispy. Serve with dipping sauce.",
                 "rating": 4.7,
-                "image": "https://example.com/thai_red_curry.jpg"
+                "image": "https://example.com/haemul_pajeon.jpg"
             },
             {
-                "id": 3,
-                "name": "Caprese Salad",
+                "id": "KOR004",
+                "name": "Gimbap",
                 "ingredients": [
-                    "2 cups cherry tomatoes, halved",
-                    "8 oz. fresh mozzarella cheese, cubed",
-                    "1/4 cup fresh basil leaves, torn",
-                    "2 tablespoons balsamic vinegar",
-                    "2 tablespoons olive oil",
-                    "Salt and pepper, to taste"
-                ],
-                "method": "Mix tomatoes, cheese, and basil. Whisk together vinegar, oil, salt, and pepper. Drizzle over salad.",
-                "rating": 4.3,
-                "image": "https://example.com/caprese_salad.jpg"
-            },
-            {
-                "id": 4,
-                "name": "Beef Stroganoff",
-                "ingredients": [
-                    "1 lb. beef sirloin, thinly sliced",
-                    "8 oz. sliced mushrooms",
-                    "1 onion, sliced",
+                    "2 cups cooked white rice",
+                    "4 sheets seaweed",
+                    "1/2 lb beef, sliced",
+                    "1 carrot, julienned",
+                    "1/2 cucumber, julienned",
+                    "4 eggs, scrambled",
+                    "1 tbsp soy sauce",
+                    "1 tbsp sesame oil",
                     "2 cloves garlic, minced",
-                    "1 cup beef broth",
-                    "1 cup sour cream",
-                    "2 tablespoons flour",
-                    "2 tablespoons butter",
-                    "Salt and pepper, to taste"
+                    "1 tbsp vegetable oil",
+                    "Salt and pepper to taste"
                 ],
-                "method": "Brown beef, mushrooms, onion, and garlic. Add broth and simmer for 10-15 minutes. Whisk together sour cream, flour, and butter. Stir into beef mixture and cook until thickened.",
-                "rating": 4.5,
-                "image": "https://example.com/beef_stroganoff.jpg"
+                "cookingMethod": "Sauté beef, garlic, soy sauce, sesame oil. Sauté vegetables. Sauté eggs. Lay out a sheet of seaweed. Spread rice on top, leaving 1 inch of space at the bottom. Arrange beef, vegetables, and eggs on top of the rice. Roll up tightly. Brush with vegetable oil. Slice and serve.",
+                "rating": 4.6,
+                "image": "https://example.com/gimbap.jpg"
             }
         ]
     },
@@ -162,69 +179,78 @@
         "description": "Michael Lee is a Korean-American chef who has blended his Korean heritage with modern cooking techniques to create unique fusion dishes.",
         "recipes": [
             {
-                "id": 1,
-                "name": "Baked Ziti",
+                "id": "KOR013",
+                "name": "Dak Galbi (Spicy Stir-Fried Chicken)",
                 "ingredients": [
-                    "1 lb. ziti pasta",
-                    "1 lb. ground beef",
-                    "1 jar marinara sauce",
-                    "1 cup shredded mozzarella cheese",
-                    "1/2 cup grated Parmesan cheese",
-                    "1/4 cup chopped fresh parsley",
-                    "Salt and pepper, to taste"
+                    "1 pound boneless, skinless chicken breast, cut into bite-sized pieces",
+                    "1/2 onion, sliced",
+                    "1/2 carrot, sliced",
+                    "1/2 sweet potato, sliced",
+                    "1/2 cabbage, sliced",
+                    "2 tablespoons gochujang (Korean red pepper paste)",
+                    "2 tablespoons soy sauce",
+                    "1 tablespoon sugar",
+                    "1 tablespoon minced garlic",
+                    "1 tablespoon vegetable oil"
                 ],
-                "method": "Cook pasta. Brown beef and drain. Mix pasta, beef, and marinara sauce. Top with cheeses and bake for 20-25 minutes.",
-                "rating": 4.6,
-                "image": "https://example.com/baked_ziti.jpg"
+                "cookingMethod": "Stir-fry chicken, onion, carrot, and sweet potato in oil until chicken is cooked. Add cabbage, gochujang, soy sauce, sugar, and garlic. Stir-fry until vegetables are cooked and sauce is thickened. Serve hot.",
+                "rating": 4.7,
+                "image": "https://example.com/dakgalbi.jpg"
             },
             {
-                "id": 2,
-                "name": "Lemon Garlic Roasted Chicken",
+                "id": "KOR014",
+                "name": "Bulgogi (Korean BBQ Beef)",
                 "ingredients": [
-                    "1 whole chicken",
-                    "4 cloves garlic, minced",
-                    "2 lemons, sliced",
-                    "2 tablespoons olive oil",
-                    "1 teaspoon dried oregano",
-                    "1 teaspoon dried thyme",
-                    "Salt and pepper, to taste"
+                    "1 pound thinly sliced beef sirloin",
+                    "1/2 onion, sliced",
+                    "2 scallions, sliced",
+                    "1/4 cup soy sauce",
+                    "2 tablespoons sugar",
+                    "1 tablespoon sesame oil",
+                    "1 tablespoon minced garlic",
+                    "1 tablespoon sesame seeds",
+                    "1/4 teaspoon black pepper"
                 ],
-                "method": "Mix garlic, oil, oregano, thyme, salt, and pepper. Rub over chicken. Stuff lemon slices inside chicken. Roast at 375 degrees for 1-1 1/2 hours.",
+                "cookingMethod": "Marinate beef, onion, and scallions in a mixture of soy sauce, sugar, sesame oil, garlic, sesame seeds, and black pepper for at least 30 minutes. Grill or pan-fry until cooked to desired doneness. Serve hot.",
                 "rating": 4.8,
-                "image": "https://example.com/lemon_garlic_chicken.jpg"
+                "image": "https://example.com/bulgogi.jpg"
             },
             {
-                "id": 3,
-                "name": "Vegetable Fried Rice",
+                "id": "KOR015",
+                "name": "Japchae (Stir-Fried Glass Noodles)",
+                "ingredients": [
+                    "4 oz. sweet potato noodles (dangmyeon)",
+                    "4 oz. beef, sliced",
+                    "1/2 onion, sliced",
+                    "1/2 carrot, julienned",
+                    "1/2 bell pepper, sliced",
+                    "2 scallions, sliced",
+                    "1 tablespoon soy sauce",
+                    "1 tablespoon sugar",
+                    "1 tablespoon vegetable oil",
+                    "1 tablespoon sesame oil"
+                ],
+                "cookingMethod": "Boil noodles for 5-7 minutes. Stir-fry beef, onion, carrot, bell pepper, and scallions in oil. Add noodles and sauce (soy sauce, sugar, and sesame oil). Stir-fry until noodles are evenly coated with sauce. Serve hot.",
+                "rating": 4.6,
+                "image": "https://example.com/japchae.jpg"
+            },
+            {
+                "id": "KOR016",
+                "name": "Kimchi Fried Rice",
                 "ingredients": [
                     "2 cups cooked rice",
-                    "1 cup frozen peas and carrots",
-                    "1/2 cup chopped onion",
-                    "1/2 cup chopped bell pepper",
+                    "1 cup kimchi, chopped",
+                    "1/4 cup kimchi juice",
+                    "4 oz. pork belly, sliced",
+                    "1/2 onion, chopped",
+                    "2 scallions, sliced",
                     "2 cloves garlic, minced",
-                    "2 tablespoons soy sauce",
-                    "1 tablespoon sesame oil",
-                    "1 tablespoon vegetable oil",
-                    "Salt and pepper, to taste"
+                    "2 tablespoons vegetable oil",
+                    "1 tablespoon gochujang (Korean red pepper paste)"
                 ],
-                "method": "Cook vegetables and garlic in oil. Add rice, soy sauce, sesame oil, salt, and pepper. Cook until heated through.",
-                "rating": 4.2,
-                "image": "https://example.com/vegetable_fried_rice.jpg"
-            },
-            {
-                "id": 4,
-                "name": "Pesto Pasta with Shrimp",
-                "ingredients": [
-                    "1 lb. pasta",
-                    "1 lb. shrimp, peeled and deveined",
-                    "1 cup basil pesto",
-                    "1/2 cup grated Parmesan cheese",
-                    "2 tablespoons olive oil",
-                    "Salt and pepper, to taste"
-                ],
-                "method": "Cook pasta. Cook shrimp in oil. Mix pasta, shrimp, pesto, and cheese. Season with salt and pepper.",
-                "rating": 4.7,
-                "image": "https://example.com/pesto_pasta_shrimp.jpg"
+                "cookingMethod": "In a pan, sauté pork belly until cooked. Add onion and garlic and cook until soft. Add kimchi and stir-fry for 2-3 minutes. Add rice, kimchi juice, and gochujang. Stir-fry until rice is evenly coated and heated through. Garnish with scallions and serve hot.",
+                "rating": 4.5,
+                "image": "https://example.com/kimchi_fried_rice.jpg"
             }
         ]
     },
@@ -238,67 +264,92 @@
         "description": "Maria Rodriguez is a Mexican chef who specializes in traditional Mexican cuisine. She has a passion for using fresh, locally-sourced ingredients.",
         "recipes": [
             {
-                "id": 1,
-                "name": "Chicken Parmesan",
+                "id": "KOR021",
+                "name": "Bibimbap",
                 "ingredients": [
-                    "4 boneless, skinless chicken breasts",
-                    "1 cup Italian-seasoned breadcrumbs",
-                    "1/2 cup grated Parmesan cheese",
-                    "1 egg, beaten",
-                    "1 cup marinara sauce",
-                    "1 cup shredded mozzarella cheese",
-                    "Salt and pepper, to taste"
-                ],
-                "method": "Mix breadcrumbs and Parmesan cheese. Dip chicken in egg, then in breadcrumb mixture. Bake for 20 minutes. Top with marinara sauce and mozzarella. Bake for 5-10 more minutes.",
-                "rating": 4.6,
-                "image": "https://example.com/chicken_parmesan.jpg"
-            },
-            {
-                "id": 2,
-                "name": "Vegetable Stir-Fry",
-                "ingredients": [
-                    "2 cups chopped mixed vegetables (such as broccoli, carrots, peppers, onions, and snow peas)",
-                    "1/4 cup soy sauce",
-                    "2 tablespoons cornstarch",
-                    "2 tablespoons vegetable oil",
+                    "2 cups cooked rice",
+                    "1/2 lb. beef sirloin, sliced",
+                    "1 carrot, julienned",
+                    "1/2 zucchini, julienned",
+                    "4 oz. bean sprouts",
+                    "4 oz. spinach",
+                    "4 eggs",
+                    "4 tablespoons gochujang (Korean red pepper paste)",
+                    "2 tablespoons soy sauce",
+                    "1 tablespoon sugar",
+                    "1 tablespoon sesame oil",
                     "2 cloves garlic, minced",
-                    "1 tablespoon grated fresh ginger",
-                    "Salt and pepper, to taste"
+                    "2 tablespoons vegetable oil",
+                    "salt and pepper to taste"
                 ],
-                "method": "Cook vegetables in oil. Add garlic and ginger and cook for 1-2 minutes. Mix soy sauce, cornstarch, salt, and pepper. Add to vegetables and cook until thickened.",
-                "rating": 4.2,
-                "image": "https://example.com/vegetable_stir_fry.jpg"
-            },
-            {
-                "id": 3,
-                "name": "Shrimp Scampi",
-                "ingredients": [
-                    "1 lb. shrimp, peeled and deveined",
-                    "1/4 cup butter",
-                    "4 cloves garlic, minced",
-                    "1/4 teaspoon red pepper flakes",
-                    "1/4 cup dry white wine",
-                    "1/4 cup lemon juice",
-                    "1/4 cup chopped fresh parsley",
-                    "Salt and pepper, to taste"
-                ],
-                "method": "Cook shrimp in butter. Add garlic and red pepper flakes and cook for 1-2 minutes. Add wine, lemon juice, salt, and pepper. Simmer for 5-7 minutes. Stir in parsley.",
-                "rating": 4.4,
-                "image": "https://example.com/shrimp_scampi.jpg"
-            },
-            {
-                "id": 4,
-                "name": "Homemade Pizza",
-                "ingredients": [
-                    "1 lb. pizza dough",
-                    "1/2 cup marinara sauce",
-                    "1 cup shredded mozzarella cheese",
-                    "Toppings of your choice (such as pepperoni, sausage, vegetables, etc.)",
-                    "Salt and pepper, to taste"
-                ],
-                "method": "Roll out dough. Top with sauce, cheese, and toppings. Bake at 450 degrees for 10-15 minutes.",
+                "cookingMethod": "Season beef with soy sauce, sugar, sesame oil, garlic, salt, and pepper. Stir-fry until cooked. Blanch bean sprouts and spinach in boiling water. Drain and season with salt and sesame oil. Fry eggs sunny side up. Arrange rice, beef, vegetables, and egg in a bowl. Serve hot with gochujang.",
                 "rating": 4.8,
-                "image": "https://example.com/homemade_pizza.jpg"
+                "image": "https://example.com/bibimbap.jpg"
+            },
+            {
+                "id": "KOR022",
+                "name": "Jjajangmyeon",
+                "ingredients": [
+                    "1 lb. pork shoulder, diced",
+                    "1 onion, chopped",
+                    "4 oz. potato, diced",
+                    "4 oz. zucchini, diced",
+                    "4 oz. carrot, diced",
+                    "4 oz. Korean radish, diced",
+                    "1/4 cup chunjang (Korean black bean paste)",
+                    "2 tablespoons vegetable oil",
+                    "2 tablespoons cornstarch",
+                    "1 tablespoon sugar",
+                    "2 cloves garlic, minced",
+                    "4 cups water",
+                    "salt and pepper to taste",
+                    "4 servings of fresh or dried noodles"
+                ],
+                "cookingMethod": "Stir-fry pork, onion, and garlic in oil. Add black bean paste and stir-fry until fragrant. Add vegetables and stir-fry for a few minutes. Add water, cornstarch, sugar, salt, and pepper. Simmer until vegetables are cooked and sauce is thickened. Cook noodles according to package instructions. Serve hot with sauce on top of noodles.",
+                "rating": 4.6,
+                "image": "https://example.com/jjajangmyeon.jpg"
+            },
+            {
+                "id": "KOR018",
+                "name": "Haemul Pajeon (Seafood Scallion Pancake)",
+                "ingredients": [
+                    "1/2 cup all-purpose flour",
+                    "1/2 cup rice flour",
+                    "1/2 teaspoon salt",
+                    "1/4 teaspoon black pepper",
+                    "1/2 cup water",
+                    "4 oz. squid, sliced",
+                    "4 oz. shrimp, peeled and deveined",
+                    "4 oz. mussels, cleaned and debearded",
+                    "4 oz. scallions, cut into 2-inch pieces",
+                    "2 tablespoons vegetable oil"
+                ],
+                "cookingMethod": "Mix flours, salt, pepper, and water to make a batter. Stir in seafood and scallions. Heat oil in a pan. Pour batter into pan and cook until golden brown on both sides. Serve hot with dipping sauce (soy sauce, vinegar, and sliced scallions).",
+                "rating": 4.7,
+                "image": "https://example.com/haemul_pajeon.jpg"
+            },
+            {
+                "id": "KOR019",
+                "name": "Korean Fried Chicken",
+                "ingredients": [
+                    "2 lbs. chicken wings or drumettes",
+                    "1 cup all-purpose flour",
+                    "1/2 cup cornstarch",
+                    "1/4 cup rice flour",
+                    "1 tablespoon baking powder",
+                    "1/2 teaspoon salt",
+                    "1/2 teaspoon black pepper",
+                    "1 cup cold water",
+                    "1 egg",
+                    "1/4 cup gochujang (Korean red pepper paste)",
+                    "1/4 cup soy sauce",
+                    "1/4 cup honey",
+                    "2 cloves garlic, minced",
+                    "2 tablespoons vegetable oil"
+                ],
+                "cookingMethod": "Mix flours, baking powder, salt, and pepper. Whisk in water and egg to make a batter. Coat chicken in batter and deep-fry until golden brown. In a separate pan, stir-fry garlic in oil. Add gochujang, soy sauce, and honey. Stir-fry until sauce thickens. Toss fried chicken in sauce. Serve hot.",
+                "rating": 4.9,
+                "image": "https://example.com/korean_fried_chicken.jpg"
             }
         ]
     },
@@ -312,76 +363,64 @@
         "description": "David Kim is a Korean-American chef who has worked in some of the best restaurants in New York City. He is known for his innovative take on Korean cuisine.",
         "recipes": [
             {
-                "id": 1,
-                "name": "Chicken Fajitas",
+                "id": "KOR031",
+                "name": "Korean Fried Chicken",
                 "ingredients": [
-                    "1 lb. boneless, skinless chicken breasts, sliced",
-                    "1 red bell pepper, sliced",
-                    "1 green bell pepper, sliced",
-                    "1 onion, sliced",
-                    "2 cloves garlic, minced",
-                    "2 tablespoons vegetable oil",
-                    "1 teaspoon chili powder",
-                    "1/2 teaspoon ground cumin",
-                    "1/2 teaspoon smoked paprika",
-                    "Salt and pepper, to taste",
-                    "8-10 flour tortillas"
+                    "chicken wings",
+                    "flour",
+                    "corn starch",
+                    "garlic powder",
+                    "paprika",
+                    "salt",
+                    "oil"
                 ],
-                "method": "Cook chicken in oil. Add vegetables and cook for 3-4 minutes. Add garlic and spices and cook for 1-2 minutes. Serve in tortillas.",
-                "rating": 4.6,
-                "image": "https://example.com/chicken_fajitas.jpg"
-            },
-            {
-                "id": 2,
-                "name": "Classic Lasagna",
-                "ingredients": [
-                    "1 lb. lasagna noodles",
-                    "1 lb. ground beef",
-                    "1 jar marinara sauce",
-                    "1 cup ricotta cheese",
-                    "1 cup shredded mozzarella cheese",
-                    "1/2 cup grated Parmesan cheese",
-                    "1/4 cup chopped fresh parsley",
-                    "Salt and pepper, to taste"
-                ],
-                "method": "Cook noodles. Brown beef and drain. Mix ricotta, parsley, salt, and pepper. Layer noodles, sauce, beef, ricotta, and cheese. Bake for 30-40 minutes.",
+                "cookingMethod": "Combine the flour, corn starch, garlic powder, paprika, and salt. Coat the chicken wings in the mixture. Deep fry the wings in oil until golden brown. Serve hot.",
                 "rating": 4.5,
-                "image": "https://example.com/classic_lasagna.jpg"
+                "image": "https://www.koreanbapsang.com/wp-content/uploads/2019/01/DSC_0379-e1548131412362.jpg"
             },
             {
-                "id": 3,
-                "name": "Spinach and Feta Stuffed Chicken Breasts",
+                "id": "KOR032",
+                "name": "Bibimbap",
                 "ingredients": [
-                    "4 boneless, skinless chicken breasts",
-                    "4 oz. crumbled feta cheese",
-                    "1/4 cup chopped fresh spinach",
-                    "2 cloves garlic, minced",
-                    "2 tablespoons olive oil",
-                    "Salt and pepper, to taste"
+                    "cooked rice",
+                    "ground beef",
+                    "spinach",
+                    "carrot",
+                    "bean sprouts",
+                    "eggs"
                 ],
-                "method": "Mix feta, spinach, garlic, salt, and pepper. Cut a pocket in each chicken breast and stuff with mixture. Heat oil in pan and cook chicken for 6-8 minutes per side.",
-                "rating": 4.7,
-                "image": "https://example.com/spinach_feta_chicken.jpg"
+                "cookingMethod": "Cook ground beef until browned. Blanch spinach, carrot, and bean sprouts in boiling water. Fry eggs sunny-side up. Arrange the rice, beef, vegetables, and egg in a bowl. Mix with red pepper paste and sesame oil. Enjoy!",
+                "rating": 4.8,
+                "image": "https://www.koreanbapsang.com/wp-content/uploads/2019/02/Bibimbap.jpg"
             },
             {
-                "id": 4,
-                "name": "Roasted Vegetable Quinoa Salad",
+                "id": "KOR033",
+                "name": "Kimchi Fried Rice",
                 "ingredients": [
-                    "1 cup quinoa, rinsed and drained",
-                    "2 cups water",
-                    "2 tablespoons olive oil",
-                    "1 red bell pepper, chopped",
-                    "1 yellow bell pepper, chopped",
-                    "1 zucchini, chopped",
-                    "1/2 red onion, chopped",
-                    "2 cloves garlic, minced",
-                    "2 tablespoons balsamic vinegar",
-                    "1/4 cup chopped fresh basil",
-                    "Salt and pepper, to taste"
+                    "cooked rice",
+                    "kimchi",
+                    "bacon",
+                    "scallions",
+                    "soy sauce"
                 ],
-                "method": "Roast vegetables in oven. Cook quinoa in water. Mix together vegetables, quinoa, garlic, vinegar, basil, salt, and pepper.",
+                "cookingMethod": "Cook bacon until crispy. Add chopped kimchi and cook for a few minutes. Add cooked rice, scallions, and soy sauce. Stir-fry until heated through. Serve hot.",
+                "rating": 4.2,
+                "image": "https://www.koreanbapsang.com/wp-content/uploads/2019/03/Kimchi-bokkeumbap.jpg"
+            },
+            {
+                "id": "KOR034",
+                "name": "Tteokbokki",
+                "ingredients": [
+                    "rice cakes",
+                    "fish cake",
+                    "gochujang",
+                    "sugar",
+                    "soy sauce",
+                    "water"
+                ],
+                "cookingMethod": "Boil rice cakes and fish cake in water. Mix gochujang, sugar, soy sauce, and water in a bowl. Add the sauce to the pot and simmer until the rice cakes are tender and the sauce has thickened. Serve hot.",
                 "rating": 4.4,
-                "image": "https://example.com/roasted_veggie_quinoa_salad.jpg"
+                "image": "https://www.maangchi.com/wp-content/uploads/2019/02/stirfried-rice-cake.jpg"
             }
         ]
     },
@@ -395,72 +434,63 @@
         "description": "Samantha Brown is a vegan chef who specializes in plant-based cuisine. She has a passion for creating healthy, flavorful dishes that are both satisfying and nutritious.",
         "recipes": [
             {
-                "id": 1,
-                "name": "Pesto Pasta",
+                "name": "Kimchi Fried Rice",
+                "id": "KF001",
                 "ingredients": [
-                    "1 lb. linguine pasta",
-                    "1 cup basil leaves",
-                    "1/2 cup grated Parmesan cheese",
-                    "1/2 cup olive oil",
-                    "1/4 cup pine nuts",
-                    "2 cloves garlic, minced",
-                    "Salt and pepper, to taste"
+                    "Cooked rice",
+                    "Kimchi",
+                    "Bacon",
+                    "Egg",
+                    "Green onions"
                 ],
-                "method": "Cook pasta. Blend basil, cheese, oil, pine nuts, garlic, salt, and pepper until smooth. Toss with pasta.",
-                "rating": 4.6,
-                "image": "https://example.com/pesto_pasta.jpg"
-            },
-            {
-                "id": 2,
-                "name": "Spinach and Feta Stuffed Chicken Breast",
-                "ingredients": [
-                    "4 boneless, skinless chicken breasts",
-                    "4 cups baby spinach",
-                    "4 oz. crumbled feta cheese",
-                    "2 cloves garlic, minced",
-                    "2 tablespoons olive oil",
-                    "Salt and pepper, to taste"
-                ],
-                "method": "Preheat oven. Combine spinach, feta, garlic, salt, and pepper. Cut a pocket in each chicken breast and stuff with spinach mixture. Sear chicken in oil. Bake for 20-25 minutes.",
+                "cookingMethod": "1. In a large skillet or wok, cook bacon over medium heat until crispy. Remove bacon from skillet and set aside. \n2. In the same skillet, add kimchi and cook for 2-3 minutes. \n3. Add cooked rice to the skillet and stir until well combined. \n4. Push the rice mixture to one side of the skillet and crack an egg onto the empty side. \n5. Scramble the egg until cooked through and then mix it into the rice mixture. \n6. Add chopped bacon and green onions to the skillet and stir everything together. \n7. Serve hot.",
                 "rating": 4.8,
-                "image": "https://example.com/spinach_feta_chicken.jpg"
+                "image": "https://www.koreanbapsang.com/wp-content/uploads/2016/09/DSC_0363-e1533087249635.jpg"
             },
             {
-                "id": 3,
-                "name": "Mushroom Risotto",
+                "name": "Bibimbap",
+                "id": "BB001",
                 "ingredients": [
-                    "1 cup Arborio rice",
-                    "4 cups chicken broth",
-                    "1 lb. sliced mushrooms",
-                    "1 onion, chopped",
-                    "2 cloves garlic, minced",
-                    "1/2 cup grated Parmesan cheese",
-                    "2 tablespoons butter",
-                    "2 tablespoons olive oil",
-                    "Salt and pepper, to taste"
+                    "Rice",
+                    "Beef",
+                    "Carrots",
+                    "Spinach",
+                    "Egg"
                 ],
-                "method": "Saute mushrooms, onion, and garlic in oil. Add rice and cook for 2 minutes. Add broth and simmer for 20-25 minutes. Stir in Parmesan and butter.",
+                "cookingMethod": "1. Cook rice according to package instructions. \n2. Season beef with salt, pepper, and sesame oil. Cook in a pan over medium-high heat. \n3. Cut carrots into matchsticks and sauté with salt and sesame oil. \n4. Blanch spinach and season with salt and sesame oil. \n5. Fry an egg sunny side up. \n6. Assemble the bibimbap in a bowl with rice on the bottom, topped with beef, carrots, spinach, and egg. \n7. Mix everything together with gochujang (Korean chili paste).",
                 "rating": 4.7,
-                "image": "https://example.com/mushroom_risotto.jpg"
+                "image": "https://www.koreanbapsang.com/wp-content/uploads/2018/08/DSC_5593-e1534504337595.jpg"
             },
             {
-                "id": 4,
-                "name": "Taco Salad",
+                "name": "Dak Galbi",
+                "id": "DG001",
                 "ingredients": [
-                    "1 lb. ground beef",
-                    "1 head lettuce, chopped",
-                    "1 can black beans, rinsed and drained",
-                    "1 can corn, drained",
-                    "1 cup chopped tomatoes",
-                    "1/2 cup shredded cheddar cheese",
-                    "1/4 cup chopped fresh cilantro",
-                    "1 tablespoon chili powder",
-                    "1 tablespoon cumin",
-                    "Salt and pepper, to taste"
+                    "Chicken",
+                    "Sweet potato",
+                    "Cabbage",
+                    "Rice cake",
+                    "Gochujang"
                 ],
-                "method": "Brown beef and drain. Add chili powder, cumin, salt, and pepper. Mix with lettuce, beans, corn, tomatoes, cheese, and cilantro.",
+                "cookingMethod": "1. Cut chicken into small pieces and marinate with soy sauce and sugar for 30 minutes. \n2. Cut sweet potato and cabbage into small pieces. \n3. In a large skillet or wok, cook the chicken until browned. \n4. Add the sweet potato and cook for 2-3 minutes. \n5. Add the cabbage and rice cake and cook for another 2-3 minutes. \n6. Add gochujang and stir everything together until well combined. \n7. Serve hot with rice.",
+                "rating": 4.6,
+                "image": "https://www.maangchi.com/wp-content/uploads/2014/06/dakgalbi-in-pan.jpg"
+            },
+            {
+                "name": "Japchae",
+                "id": "KOR002",
+                "ingredients": [
+                    "8 oz. sweet potato noodles",
+                    "2 cups spinach",
+                    "1 cup sliced carrots",
+                    "1 cup sliced onion",
+                    "4 oz. sliced beef",
+                    "3 cloves garlic, minced",
+                    "2 tbsp. soy sauce",
+                    "2 tbsp. sesame oil"
+                ],
+                "cookingMethod": "1. Cook sweet potato noodles according to package instructions. Drain and rinse with cold water.\n2. In a pan, heat up sesame oil and sauté garlic until fragrant.\n3. Add sliced beef and cook until browned.\n4. Add sliced carrots and onion and sauté until they become tender.\n5. Add spinach and cook until wilted.\n6. Add the cooked noodles and soy sauce to the pan and stir until the noodles are coated in the sauce.\n7. Serve hot and enjoy!",
                 "rating": 4.5,
-                "image": "https://example.com/taco_salad.jpg"
+                "image": "https://www.koreanbapsang.com/wp-content/uploads/2019/08/Japchae-1.jpg"
             }
         ]
     }
