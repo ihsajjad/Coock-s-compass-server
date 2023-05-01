@@ -388,7 +388,7 @@
         },
         {
             "id": 6,
-            "chef_picture": "https://example.com/chef6_profile.jpg",
+            "chef_picture": "https://images.unsplash.com/photo-1659354213732-8cdec0a6fb47?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80",
             "chef_name": "Samantha Brown",
             "years_of_experience": 7,
             "num_recipes": 30,
