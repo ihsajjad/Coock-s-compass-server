@@ -1,8 +1,10 @@
 const express = require('express');
 const app = express();
 const port = 5000;
-
+const cors = require('cors')
 const chefs = require('./data/chefs.json');
+
+app.use(cors());
 
 app.get('/', (req, res)=> {
     res.send('Cook compass server is running')

@@ -20,7 +20,7 @@
                 ],
                 "cookingMethod": "Stir-fry chopped kimchi in oil. Add rice and kimchi juice. Add scallions. Stir-fry until heated through. Serve hot.",
                 "rating": 4.5,
-                "image": "https://example.com/kimchi_fried_rice.jpg"
+                "image": "https://images.unsplash.com/photo-1653849942524-ef2c6882d70d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
             },
             {
                 "id": "KOR002",
@@ -38,7 +38,7 @@
                 ],
                 "cookingMethod": "Place rice in bowl. Arrange vegetables and beef on top. Fry egg and add on top. Serve with gochujang. Mix before eating.",
                 "rating": 4.8,
-                "image": "https://example.com/bibimbap.jpg"
+                "image": "https://images.unsplash.com/photo-1600289031464-74d374b64991?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=775&q=80"
             },
             {
                 "id": "KOR003",
@@ -57,7 +57,7 @@
                 ],
                 "cookingMethod": "Cook noodles. Stir-fry beef, onions, and peppers. Add noodles, spinach, soy sauce, sugar, and pepper. Stir-fry. Serve hot.",
                 "rating": 4.7,
-                "image": "https://example.com/japchae.jpg"
+                "image": "https://images.unsplash.com/photo-1583032015879-e5022cb87c3b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
             },
             {
                 "id": "KOR004",
@@ -74,7 +74,7 @@
                 ],
                 "cookingMethod": "Marinate beef in soy sauce, sugar, garlic, and sesame oil. Stir-fry beef and onions. Add scallions. Serve hot.",
                 "rating": 4.6,
-                "image": "https://example.com/bulgogi.jpg"
+                "image": "https://images.unsplash.com/photo-1564836235910-c3055ca0f912?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
             }
         ]
     },
@@ -106,7 +106,7 @@
                 ],
                 "cookingMethod": "Boil chicken, potatoes, onion, garlic, mushrooms, soy sauce, mirin, gochugaru, brown sugar, sesame oil, and water. Simmer for 30 mins. Add scallions and cook for 10 mins. Serve hot with rice.",
                 "rating": 4.8,
-                "image": "https://example.com/jjimdak.jpg"
+                "image": "https://images.unsplash.com/photo-1557038684-abb03178899e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80"
             },
             {
                 "id": "KOR002",
@@ -129,7 +129,7 @@
                 ],
                 "cookingMethod": "Sauté beef, vegetables, garlic, soy sauce, sesame oil. Fry eggs. Arrange rice in a bowl, top with beef and vegetables. Add egg and gochujang. Mix well before eating.",
                 "rating": 4.9,
-                "image": "https://example.com/bibimbap.jpg"
+                "image": "https://images.unsplash.com/photo-1600289031464-74d374b64991?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=775&q=80g"
             },
             {
                 "id": "KOR003",
@@ -145,7 +145,7 @@
                 ],
                 "cookingMethod": "Mix flour and water. Sauté seafood, onion, and scallions in oil. Add mixture to flour batter. Heat oil in a pan. Pour in batter. Cook until crispy. Serve with dipping sauce.",
                 "rating": 4.7,
-                "image": "https://example.com/haemul_pajeon.jpg"
+                "image": "https://images.unsplash.com/photo-1635363638580-c2809d049eee?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
             },
             {
                 "id": "KOR004",
@@ -165,7 +165,7 @@
                 ],
                 "cookingMethod": "Sauté beef, garlic, soy sauce, sesame oil. Sauté vegetables. Sauté eggs. Lay out a sheet of seaweed. Spread rice on top, leaving 1 inch of space at the bottom. Arrange beef, vegetables, and eggs on top of the rice. Roll up tightly. Brush with vegetable oil. Slice and serve.",
                 "rating": 4.6,
-                "image": "https://example.com/gimbap.jpg"
+                "image": "https://images.unsplash.com/photo-1608731002187-d3448d224d18?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
             }
         ]
     },
@@ -195,7 +195,7 @@
                 ],
                 "cookingMethod": "Stir-fry chicken, onion, carrot, and sweet potato in oil until chicken is cooked. Add cabbage, gochujang, soy sauce, sugar, and garlic. Stir-fry until vegetables are cooked and sauce is thickened. Serve hot.",
                 "rating": 4.7,
-                "image": "https://example.com/dakgalbi.jpg"
+                "image": "https://images.unsplash.com/photo-1598515214211-89d3c73ae83b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
             },
             {
                 "id": "KOR014",
@@ -213,7 +213,7 @@
                 ],
                 "cookingMethod": "Marinate beef, onion, and scallions in a mixture of soy sauce, sugar, sesame oil, garlic, sesame seeds, and black pepper for at least 30 minutes. Grill or pan-fry until cooked to desired doneness. Serve hot.",
                 "rating": 4.8,
-                "image": "https://example.com/bulgogi.jpg"
+                "image": "https://images.unsplash.com/photo-1564836235910-c3055ca0f912?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
             },
             {
                 "id": "KOR015",
@@ -232,7 +232,7 @@
                 ],
                 "cookingMethod": "Boil noodles for 5-7 minutes. Stir-fry beef, onion, carrot, bell pepper, and scallions in oil. Add noodles and sauce (soy sauce, sugar, and sesame oil). Stir-fry until noodles are evenly coated with sauce. Serve hot.",
                 "rating": 4.6,
-                "image": "https://example.com/japchae.jpg"
+                "image": "https://images.unsplash.com/photo-1583032015879-e5022cb87c3b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
             },
             {
                 "id": "KOR016",
@@ -250,7 +250,7 @@
                 ],
                 "cookingMethod": "In a pan, sauté pork belly until cooked. Add onion and garlic and cook until soft. Add kimchi and stir-fry for 2-3 minutes. Add rice, kimchi juice, and gochujang. Stir-fry until rice is evenly coated and heated through. Garnish with scallions and serve hot.",
                 "rating": 4.5,
-                "image": "https://example.com/kimchi_fried_rice.jpg"
+                "image": "https://images.unsplash.com/photo-1653849942524-ef2c6882d70d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
             }
         ]
     },
@@ -284,13 +284,13 @@
                 ],
                 "cookingMethod": "Season beef with soy sauce, sugar, sesame oil, garlic, salt, and pepper. Stir-fry until cooked. Blanch bean sprouts and spinach in boiling water. Drain and season with salt and sesame oil. Fry eggs sunny side up. Arrange rice, beef, vegetables, and egg in a bowl. Serve hot with gochujang.",
                 "rating": 4.8,
-                "image": "https://example.com/bibimbap.jpg"
+                "image": "https://images.unsplash.com/photo-1600289031464-74d374b64991?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=775&q=80"
             },
             {
                 "id": "KOR022",
                 "name": "Jjajangmyeon",
                 "ingredients": [
-                    "1 lb. pork shoulder, diced",
+                    "1 lb. meat shoulder, diced",
                     "1 onion, chopped",
                     "4 oz. potato, diced",
                     "4 oz. zucchini, diced",
@@ -307,7 +307,7 @@
                 ],
                 "cookingMethod": "Stir-fry pork, onion, and garlic in oil. Add black bean paste and stir-fry until fragrant. Add vegetables and stir-fry for a few minutes. Add water, cornstarch, sugar, salt, and pepper. Simmer until vegetables are cooked and sauce is thickened. Cook noodles according to package instructions. Serve hot with sauce on top of noodles.",
                 "rating": 4.6,
-                "image": "https://example.com/jjajangmyeon.jpg"
+                "image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NzJ8fGtvcmVhbiUyMGZvb2R8ZW58MHx8MHx8&auto=format&fit=crop&w=400&q=60"
             },
             {
                 "id": "KOR018",
@@ -326,7 +326,7 @@
                 ],
                 "cookingMethod": "Mix flours, salt, pepper, and water to make a batter. Stir in seafood and scallions. Heat oil in a pan. Pour batter into pan and cook until golden brown on both sides. Serve hot with dipping sauce (soy sauce, vinegar, and sliced scallions).",
                 "rating": 4.7,
-                "image": "https://example.com/haemul_pajeon.jpg"
+                "image": "https://images.unsplash.com/photo-1635363638580-c2809d049eee?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
             },
             {
                 "id": "KOR019",
@@ -349,7 +349,7 @@
                 ],
                 "cookingMethod": "Mix flours, baking powder, salt, and pepper. Whisk in water and egg to make a batter. Coat chicken in batter and deep-fry until golden brown. In a separate pan, stir-fry garlic in oil. Add gochujang, soy sauce, and honey. Stir-fry until sauce thickens. Toss fried chicken in sauce. Serve hot.",
                 "rating": 4.9,
-                "image": "https://example.com/korean_fried_chicken.jpg"
+                "image": "https://images.unsplash.com/photo-1527477396000-e27163b481c2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=853&q=80"
             }
         ]
     },
@@ -376,7 +376,7 @@
                 ],
                 "cookingMethod": "Combine the flour, corn starch, garlic powder, paprika, and salt. Coat the chicken wings in the mixture. Deep fry the wings in oil until golden brown. Serve hot.",
                 "rating": 4.5,
-                "image": "https://www.koreanbapsang.com/wp-content/uploads/2019/01/DSC_0379-e1548131412362.jpg"
+                "image": "https://images.unsplash.com/photo-1527477396000-e27163b481c2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=853&q=80"
             },
             {
                 "id": "KOR032",
@@ -391,7 +391,7 @@
                 ],
                 "cookingMethod": "Cook ground beef until browned. Blanch spinach, carrot, and bean sprouts in boiling water. Fry eggs sunny-side up. Arrange the rice, beef, vegetables, and egg in a bowl. Mix with red pepper paste and sesame oil. Enjoy!",
                 "rating": 4.8,
-                "image": "https://www.koreanbapsang.com/wp-content/uploads/2019/02/Bibimbap.jpg"
+                "image": "https://images.unsplash.com/photo-1600289031464-74d374b64991?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=775&q=80"
             },
             {
                 "id": "KOR033",
@@ -405,7 +405,7 @@
                 ],
                 "cookingMethod": "Cook bacon until crispy. Add chopped kimchi and cook for a few minutes. Add cooked rice, scallions, and soy sauce. Stir-fry until heated through. Serve hot.",
                 "rating": 4.2,
-                "image": "https://www.koreanbapsang.com/wp-content/uploads/2019/03/Kimchi-bokkeumbap.jpg"
+                "image": "https://images.unsplash.com/photo-1653849942524-ef2c6882d70d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
             },
             {
                 "id": "KOR034",
@@ -420,7 +420,7 @@
                 ],
                 "cookingMethod": "Boil rice cakes and fish cake in water. Mix gochujang, sugar, soy sauce, and water in a bowl. Add the sauce to the pot and simmer until the rice cakes are tender and the sauce has thickened. Serve hot.",
                 "rating": 4.4,
-                "image": "https://www.maangchi.com/wp-content/uploads/2019/02/stirfried-rice-cake.jpg"
+                "image": "https://images.unsplash.com/photo-1679581083578-94eae6e8d7a4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=464&q=80"
             }
         ]
     },
@@ -445,7 +445,7 @@
                 ],
                 "cookingMethod": "1. In a large skillet or wok, cook bacon over medium heat until crispy. Remove bacon from skillet and set aside. \n2. In the same skillet, add kimchi and cook for 2-3 minutes. \n3. Add cooked rice to the skillet and stir until well combined. \n4. Push the rice mixture to one side of the skillet and crack an egg onto the empty side. \n5. Scramble the egg until cooked through and then mix it into the rice mixture. \n6. Add chopped bacon and green onions to the skillet and stir everything together. \n7. Serve hot.",
                 "rating": 4.8,
-                "image": "https://www.koreanbapsang.com/wp-content/uploads/2016/09/DSC_0363-e1533087249635.jpg"
+                "image": "https://images.unsplash.com/photo-1653849942524-ef2c6882d70d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
             },
             {
                 "name": "Bibimbap",
@@ -459,7 +459,7 @@
                 ],
                 "cookingMethod": "1. Cook rice according to package instructions. \n2. Season beef with salt, pepper, and sesame oil. Cook in a pan over medium-high heat. \n3. Cut carrots into matchsticks and sauté with salt and sesame oil. \n4. Blanch spinach and season with salt and sesame oil. \n5. Fry an egg sunny side up. \n6. Assemble the bibimbap in a bowl with rice on the bottom, topped with beef, carrots, spinach, and egg. \n7. Mix everything together with gochujang (Korean chili paste).",
                 "rating": 4.7,
-                "image": "https://www.koreanbapsang.com/wp-content/uploads/2018/08/DSC_5593-e1534504337595.jpg"
+                "image": "https://images.unsplash.com/photo-1600289031464-74d374b64991?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=775&q=80"
             },
             {
                 "name": "Dak Galbi",
@@ -473,7 +473,7 @@
                 ],
                 "cookingMethod": "1. Cut chicken into small pieces and marinate with soy sauce and sugar for 30 minutes. \n2. Cut sweet potato and cabbage into small pieces. \n3. In a large skillet or wok, cook the chicken until browned. \n4. Add the sweet potato and cook for 2-3 minutes. \n5. Add the cabbage and rice cake and cook for another 2-3 minutes. \n6. Add gochujang and stir everything together until well combined. \n7. Serve hot with rice.",
                 "rating": 4.6,
-                "image": "https://www.maangchi.com/wp-content/uploads/2014/06/dakgalbi-in-pan.jpg"
+                "image": "https://images.unsplash.com/photo-1598515214211-89d3c73ae83b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
             },
             {
                 "name": "Japchae",
@@ -490,7 +490,7 @@
                 ],
                 "cookingMethod": "1. Cook sweet potato noodles according to package instructions. Drain and rinse with cold water.\n2. In a pan, heat up sesame oil and sauté garlic until fragrant.\n3. Add sliced beef and cook until browned.\n4. Add sliced carrots and onion and sauté until they become tender.\n5. Add spinach and cook until wilted.\n6. Add the cooked noodles and soy sauce to the pan and stir until the noodles are coated in the sauce.\n7. Serve hot and enjoy!",
                 "rating": 4.5,
-                "image": "https://www.koreanbapsang.com/wp-content/uploads/2019/08/Japchae-1.jpg"
+                "image": "https://images.unsplash.com/photo-1583032015879-e5022cb87c3b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
             }
         ]
     }
